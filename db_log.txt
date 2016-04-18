@@ -1,0 +1,12 @@
+6,1
+pavel,mail
+nick,name
+anna,mail
+dmitriy,123
+jack,156
+oleg,777
+ivan,756
+nikolai,789
+alexander,965
+Аня,мой_пароль
+admin,admin
